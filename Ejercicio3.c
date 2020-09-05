@@ -7,6 +7,7 @@ int main()
     int  i, dni=0, x, dnimax=0;
     printf("Primer trimestre \n\n");
     printf("Segundo Push");
+    printf("Tercer Push para ver los cambios");
     for(i=0;i<3;i++)
     {
 
